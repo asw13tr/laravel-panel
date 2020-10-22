@@ -1,0 +1,9 @@
+- Sayfalar
+  - Alt sayfalar
+- Yazı detayı
+  - Yazı paylaş
+  - Yorumlar
+  - Yazının kategorilerini sidebarda
+  - Benzer yazıları göster
+- Eposta aboneliği ile haftalık email
+-

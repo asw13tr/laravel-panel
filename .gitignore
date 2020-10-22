@@ -1,0 +1,18 @@
+/node_modules
+/public/hot
+/public/storage
+/public/media/*/*[.jpg, .jpeg, .png, .tiff, .gif, .webp]
+/storage/*.key
+.env
+.env-old
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+
+/app/Http/Controllers/MainController.php
+/app/Http/Controllers/NavController.php
+/resources/views/*.php
+/resources/views/items
